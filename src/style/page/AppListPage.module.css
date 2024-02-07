@@ -1,0 +1,21 @@
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  width: 70vw;
+  height: 52.5vh;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  background-color: rgb(0 0 0 / 72%);
+}
+
+.HeaderConatiner {
+  padding: 12px;
+}
+
+.AppsConatiner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
